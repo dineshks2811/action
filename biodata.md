@@ -1,3 +1,4 @@
+html:-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,8 +7,8 @@
     <title>Biodata Form</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            font-family:Arial, sans-serif;
+            background-color:#f4f4f4;
             margin: 0;
             padding: 0;
             display: flex;
